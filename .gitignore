@@ -1,1 +1,6 @@
 ./x64
+./Assignment_1.sln
+./Assignment_1Q1/x64
+./Assignment_1Q1/Assignment_1.vcxproj
+./Assignment_1Q1/Assignment_1.vcxproj.filters
+./Assignment_1Q1/Assignment_1.vcxproj.user
