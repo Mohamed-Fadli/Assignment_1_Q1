@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mohamed Chouaib\\OneDrive - Concordia University - Canada\\Bureau\\Concordia\\Classes\\Computer Engineering\\Coen 244\\COEN 244 mine\\Assignments\\Assignment 1\\Assignment_1_Q1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\499d1fef-ad6d-4efd-a569-cef6a7da2a38_assign-1-q1.zip.a38\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\0b7794d7-a3de-4967-afb9-5d36c5cdf1c4_assign-1-q1.zip.1c4\\invoice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\3231e093-4820-4896-ac4a-889b188392ec_assign-1-q1.zip.2ec\\invoice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "invoice.h",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\invoice.h",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\invoice.h",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-04T01:59:31.641Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "invoice.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\invoice.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\invoice.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\invoice.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T01:59:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\main.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\source\\repos\\Assignment_1\\Assignment_1\\main.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\source\\repos\\Assignment_1\\Assignment_1\\main.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-04T01:58:39.967Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "93406d93-b83d-4fe2-966e-a7372b1f5fcb",
+        "Display": 0,
+        "X": -290,
+        "Y": 227,
+        "Width": 579,
+        "Height": 453,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "invoice.h",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\0b7794d7-a3de-4967-afb9-5d36c5cdf1c4_assign-1-q1.zip.1c4\\invoice.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b7794d7-a3de-4967-afb9-5d36c5cdf1c4_assign-1-q1.zip.1c4\\invoice.h",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\0b7794d7-a3de-4967-afb9-5d36c5cdf1c4_assign-1-q1.zip.1c4\\invoice.h [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\0b7794d7-a3de-4967-afb9-5d36c5cdf1c4_assign-1-q1.zip.1c4\\invoice.h [Lecture seule]",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-07T19:10:00.235Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "invoice.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\3231e093-4820-4896-ac4a-889b188392ec_assign-1-q1.zip.2ec\\invoice.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\3231e093-4820-4896-ac4a-889b188392ec_assign-1-q1.zip.2ec\\invoice.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\3231e093-4820-4896-ac4a-889b188392ec_assign-1-q1.zip.2ec\\invoice.cpp [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\3231e093-4820-4896-ac4a-889b188392ec_assign-1-q1.zip.2ec\\invoice.cpp [Lecture seule]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T19:10:52.552Z",
+              "EditorCaption": " [Lecture seule]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\499d1fef-ad6d-4efd-a569-cef6a7da2a38_assign-1-q1.zip.a38\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\499d1fef-ad6d-4efd-a569-cef6a7da2a38_assign-1-q1.zip.a38\\main.cpp",
+              "ToolTip": "C:\\Users\\Mohamed Chouaib\\AppData\\Local\\Temp\\499d1fef-ad6d-4efd-a569-cef6a7da2a38_assign-1-q1.zip.a38\\main.cpp [Lecture seule]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\Temp\\499d1fef-ad6d-4efd-a569-cef6a7da2a38_assign-1-q1.zip.a38\\main.cpp [Lecture seule]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-07T19:10:09.724Z",
+              "EditorCaption": " [Lecture seule]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
